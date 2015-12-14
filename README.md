@@ -44,7 +44,7 @@ LexisNexis' Terms of use prevent me from posting my data set.
 
 ## More Information
 
-Many thanks and appreciation for the support, help, and encouragement from Rochelle Terman, Mobin Javed Mukhtar, Elizabeth McKenna, and Joshua Dyck.  
+Many thanks and appreciation for the support, help, and encouragement from Rochelle Terman, Mobin Javed Mukhtar, Elizabeth McKenna, Amanda Lee, and Joshua Dyck.  
 
 
 Naniette Coleman
