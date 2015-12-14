@@ -38,9 +38,9 @@ LexisNexis' Terms of use prevent me from posting my data set.
 
 ### Results
 
-1. articles-over-time.png: Graphs the number of articles about each person over time.
-2. articles-per-person.png: Bar graph shows the number of articles by person in the dataset.  
-3. coverage-overlap-venn-diagram.tiff: Venn diagram shows the overlap in coverage by person in the dataset..
+1. 01-articles-over-time.png: Graphs the number of articles about each person over time.
+2. 02-articles-per-person.png: Bar graph shows the number of articles by person in the dataset.  
+3. 03-coverage-overlap-venn-diagram.tiff: Venn diagram shows the overlap in coverage by person in the dataset.
 
 ## More Information
 
